@@ -7,5 +7,10 @@
   "[c]": {
     "editor.quickSuggestions": true
   },
-  "C_Cpp.intelliSenseEngineFallback": "Enabled"
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "idf.portWin": "COM4",
+  "idf.espIdfPathWin": "C:\\Users\\markn\\esp-idf",
+  "idf.toolsPathWin": "c:\\Users\\markn\\idf-tools",
+  "idf.pythonBinPathWin": "c:\\Users\\markn\\idf-tools\\python_env\\idf4.0_py3.8_env\\Scripts\\python.exe",
+  "idf.pythonSystemBinPathWin": "C:\\Users\\markn\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
 }
